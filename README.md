@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Divya8184/DSA-PRACTICE/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Hash Table
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
