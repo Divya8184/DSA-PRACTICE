@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0055-jump-game) |
 | [0238-product-of-array-except-self](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0724-find-pivot-index) |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0055-jump-game) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Divya8184/DSA-PRACTICE/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Hash Table
 |  |
