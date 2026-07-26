@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Divya8184/DSA-PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Divya8184/DSA-PRACTICE/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Two Pointers
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Divya8184/DSA-PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Divya8184/DSA-PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Divya8184/DSA-PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Divya8184/DSA-PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
