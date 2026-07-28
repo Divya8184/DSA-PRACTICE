@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0724-find-pivot-index) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya8184/DSA-PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
