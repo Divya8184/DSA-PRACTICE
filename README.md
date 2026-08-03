@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya8184/DSA-PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya8184/DSA-PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
