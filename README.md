@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0018-4sum) |
+| [0045-jump-game-ii](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0075-sort-colors) |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0055-jump-game) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Divya8184/DSA-PRACTICE/tree/master/3976-maximum-subarray-sum-after-multiplier) |
