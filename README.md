@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0414-third-maximum-number) |
+| [0605-can-place-flowers](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya8184/DSA-PRACTICE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
