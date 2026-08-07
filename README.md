@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Divya8184/DSA-PRACTICE/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
